@@ -1,0 +1,84 @@
+{
+    "FAQs": [
+        {
+            "question": "What are your business hours?",
+            "answer": "Our customer service team is available Monday through Friday from 9:00 AM to 6:00 PM (local time). We are closed on weekends and major holidays."
+        },
+        {
+            "question": "How can I contact customer service?",
+            "answer": "You can reach us by email at support@example.com. Alternatively, you can call us at (123) 456-7890. We also provide 24/7 live chat support on our website for your convenience."
+        },
+        {
+            "question": "Can I change or cancel my order?",
+            "answer": "You can modify or cancel your order within 24 hours of placing it by contacting our customer service team. After 24 hours, we may not be able to cancel or change the order due to processing and shipment."
+        },
+        {
+            "question": "Do you offer refunds or exchanges?",
+            "answer": "Yes, we offer a full refund or exchange within 30 days of purchase. The product must be in unused condition and returned in its original packaging. If the item is defective or damaged, please contact us for further assistance."
+        },
+        {
+            "question": "Where is my order?",
+            "answer": "You can track the status of your order by visiting the 'Order Status' page on our website, using the tracking number provided in your order confirmation email. If you encounter any issues or delays, don't hesitate to contact us."
+        },
+        {
+            "question": "Do you offer international shipping?",
+            "answer": "Yes, we ship to over 100 countries worldwide. Shipping rates and delivery times vary by destination. International orders may also be subject to customs duties and taxes, which are the responsibility of the customer."
+        },
+        {
+            "question": "How can I update my billing or shipping address?",
+            "answer": "You can update your address directly from your account settings on our website. If your order has already been shipped, please contact us immediately to make necessary changes."
+        },
+        {
+            "question": "I received the wrong item, what should I do?",
+            "answer": "We apologize for the inconvenience. Please contact our customer service team within 7 days of receiving your order. We will assist you in returning the incorrect item and sending you the correct one at no additional charge."
+        },
+        {
+            "question": "How do I reset my password?",
+            "answer": "If you've forgotten your password, you can reset it by clicking on the 'Forgot Password' link on the login page. An email with instructions will be sent to the address associated with your account."
+        },
+        {
+            "question": "Do you offer gift cards?",
+            "answer": "Yes, we offer digital gift cards in various denominations. They can be purchased directly on our website and sent via email. Gift cards can be used for any purchase, including sales and promotions."
+        },
+        {
+            "question": "What payment methods do you accept?",
+            "answer": "We accept a wide range of payment methods, including credit and debit cards (Visa, MasterCard, American Express), PayPal, and Apple Pay. For international orders, we also accept payments via local payment methods where available."
+        },
+        {
+            "question": "How can I track my refund?",
+            "answer": "Once we receive your returned item, please allow 5-7 business days for processing. A notification will be sent via email once your refund has been approved. You can also view the status of your refund under your order history."
+        },
+        {
+            "question": "Are your products covered by a warranty?",
+            "answer": "Yes, most of our products come with a one-year manufacturer warranty, which covers defects in materials and workmanship. The warranty does not cover damage caused by misuse or accidents. Please refer to the warranty policy for detailed terms."
+        },
+        {
+            "question": "Can I order products in bulk?",
+            "answer": "Yes, we offer bulk purchasing options for businesses, schools, and other organizations. Please contact our customer service team for more information on discounts and bulk ordering procedures."
+        },
+        {
+            "question": "How do I apply a promo code or discount?",
+            "answer": "During checkout, you will have the option to enter a promo code. Simply type or paste the code in the provided field, and the discount will be applied to your order total. Promo codes cannot be combined with other offers."
+        },
+        {
+            "question": "What do I do if I received a damaged product?",
+            "answer": "If your product arrives damaged, please contact our customer service team immediately. We will assist you in processing a return or exchange, and we will cover any costs related to the damage."
+        },
+        {
+            "question": "Do you offer any loyalty programs or rewards?",
+            "answer": "Yes, we offer a rewards program that allows customers to earn points on every purchase. These points can be redeemed for discounts or special offers. Visit our loyalty program page to learn more and start earning rewards today."
+        },
+        {
+            "question": "Can I save my payment information for future purchases?",
+            "answer": "Yes, you can securely save your payment information for future purchases by creating an account on our website. This will save you time during checkout and ensure faster processing for future orders."
+        },
+        {
+            "question": "Do you offer any discounts for students or military personnel?",
+            "answer": "Yes, we offer discounts for verified students and military personnel. Please contact us with your verification details, and we will provide you with the discount code to use on your next purchase."
+        },
+        {
+            "question": "How do I leave feedback or a review for a product?",
+            "answer": "After purchasing an item, you can leave a review by logging into your account and visiting the product page. You can rate the product, leave a written review, and even upload photos to help other customers."
+        }
+    ]
+}
